@@ -208,18 +208,14 @@ The project strengthened my understanding of:
 This project is prepared for educational and portfolio purposes only.
 The assumptions, forecasts, calculations, and valuation presented in this project should not be considered investment advice or a recommendation to buy, hold, or sell any security.
 
-<img width="1135" height="771" alt="Screenshot 2026-09-10 210048" src="https://github.com/user-attachments/assets/b9572c3f-fb32-44de-a990-8f75280318f1" />
-<img width="1046" height="605" alt="Screenshot 2026-09-10 210112" src="https://github.com/user-attachments/assets/d52d743a-0c9b-4cca-b31f-15b35bb00830" />
-<img width="1046" height="605" alt="Screenshot 2026-09-10 210112" src="https://github.com/user-attachments/assets/f3eac3a9-8c1b-41d4-abcf-8b77f7ddbea0" />
+### Ratio Analysis
 <img width="1445" height="772" alt="Screenshot 2026-09-10 210214" src="https://github.com/user-attachments/assets/3b45bd0d-7425-4198-bb06-afcb415e3296" />
-<img width="1177" height="723" alt="Screenshot 2026-09-10 210140" src="https://github.com/user-attachments/assets/68ffc25c-f58d-446a-9f28-5ee951788c53" />
-<img width="1445" height="772" alt="Screenshot 2026-09-10 210214" src="https://github.com/user-attachments/assets/b2337f8d-dcd3-401f-b0fc-f6d8d5638f0a" />
-<img width="770" height="691" alt="Screenshot 2026-09-10 210244" src="https://github.com/user-attachments/assets/90bd5b75-f71c-49f2-af2f-0d779bc52a2d" />
-<img width="935" height="752" alt="Screenshot 2026-09-10 210254" src="https://github.com/user-attachments/assets/89adc4c0-d0aa-4fc3-a6a0-de25df7b8add" />
-<img width="535" height="692" alt="Screenshot 2026-09-10 210306" src="https://github.com/user-attachments/assets/2db2104d-9e78-4890-9a71-080b17203618" />
-<img width="536" height="472" alt="Screenshot 2026-09-10 210312" src="https://github.com/user-attachments/assets/d1bc770d-eb78-4a13-b3e1-dc3a57b94e3a" />
-<img width="942" height="743" alt="Screenshot 2026-09-10 210321" src="https://github.com/user-attachments/assets/875f6547-64cb-4423-9a37-1f0898a0bd9a" />
 
+### WACC & Beta Analysis
+<img width="1445" height="772" alt="Screenshot 2026-09-10 210214" src="https://github.com/user-attachments/assets/547205fb-7aed-4ac4-8172-9ca7473d32bb" />
+
+### DCF Valuation
+<img width="942" height="743" alt="Screenshot 2026-09-10 210321" src="https://github.com/user-attachments/assets/53c3ed8b-dddc-4d4f-8560-67d5d6613200" />
 
 ## Author
 **Khushi Lohiya**
