@@ -209,7 +209,7 @@ This project is prepared for educational and portfolio purposes only.
 The assumptions, forecasts, calculations, and valuation presented in this project should not be considered investment advice or a recommendation to buy, hold, or sell any security.
 
 ### Ratio Analysis
-<img width="1445" height="772" alt="Screenshot 2026-09-10 210214" src="https://github.com/user-attachments/assets/3b45bd0d-7425-4198-bb06-afcb415e3296" />
+<img width="1102" height="756" alt="Screenshot 2026-09-10 210125" src="https://github.com/user-attachments/assets/9499ba58-d3d2-4bb8-bd49-0d6892a0ebec" />
 
 ### WACC & Beta Analysis
 <img width="1445" height="772" alt="Screenshot 2026-09-10 210214" src="https://github.com/user-attachments/assets/547205fb-7aed-4ac4-8172-9ca7473d32bb" />
