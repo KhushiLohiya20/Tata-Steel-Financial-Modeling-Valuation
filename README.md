@@ -208,5 +208,10 @@ The project strengthened my understanding of:
 This project is prepared for educational and portfolio purposes only.
 The assumptions, forecasts, calculations, and valuation presented in this project should not be considered investment advice or a recommendation to buy, hold, or sell any security.
 
+<img width="1135" height="771" alt="Screenshot 2026-09-10 210048" src="https://github.com/user-attachments/assets/b9572c3f-fb32-44de-a990-8f75280318f1" />
+<img width="1046" height="605" alt="Screenshot 2026-09-10 210112" src="https://github.com/user-attachments/assets/d52d743a-0c9b-4cca-b31f-15b35bb00830" />
+<img width="1046" height="605" alt="Screenshot 2026-09-10 210112" src="https://github.com/user-attachments/assets/f3eac3a9-8c1b-41d4-abcf-8b77f7ddbea0" />
+
+
 ## Author
 **Khushi Lohiya**
